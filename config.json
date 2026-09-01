@@ -1,0 +1,4 @@
+{
+  "device_id": "YOUR_CUSTOM_DEVICE_ID_HERE",
+  "max_retries": 3
+}
